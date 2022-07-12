@@ -2,7 +2,7 @@
 
 ## Реализация примеров и задач из книги Грокаем Алгоритмы на Javascript
 
-Содержание
+### Содержание
 [![Бинарный поискт](https://github.com/Oleeesya/Grokking-Algorithms-js/blob/main/binary_search.js)
 
 Сортировка выбором
