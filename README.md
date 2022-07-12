@@ -4,9 +4,6 @@
 
 ### Содержание
 [Бинарный поиск](https://github.com/Oleeesya/Grokking-Algorithms-js/blob/main/binary_search.js)
-
-Сортировка выбором
-Быстрая сортировка
-Поиск в ширину
-Алгоритм Дейкстры
-Жадный алгоритм
+[Сортировка выбором]([https://github.com/Oleeesya/Grokking-Algorithms-js/blob/main/binary_search.js](https://github.com/Oleeesya/Grokking-Algorithms-js/blob/main/selection_sort.js))
+[Быстрая сортировка]([https://github.com/Oleeesya/Grokking-Algorithms-js/blob/main/binary_search.js](https://github.com/Oleeesya/Grokking-Algorithms-js/blob/main/quick_sort.js))
+[Рекурсия]([https://github.com/Oleeesya/Grokking-Algorithms-js/blob/main/binary_search.js](https://github.com/Oleeesya/Grokking-Algorithms-js/tree/main/recursion))
